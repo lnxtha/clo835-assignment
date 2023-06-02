@@ -1,2 +1,1 @@
-# clo835-assignment
-This is portable technology assignment 1.
+﻿# clo835_asignment_one updated
